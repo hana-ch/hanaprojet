@@ -8,7 +8,7 @@
 
     <script>
 
-        alert('Hello world!');
+        alert('hello test!');
 
     </script>
 
